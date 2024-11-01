@@ -10,6 +10,6 @@ AperoApp.configure()
 ```
 
 ## Features
-- Integrate Firebase
-- Integrate Adjust
-- Integrate Facebook
+- [x] Integrate Firebase
+- [x] Integrate Adjust
+- [x] Integrate Facebook 
