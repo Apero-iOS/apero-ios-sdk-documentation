@@ -16,3 +16,7 @@ AperoApp.configure()
 - [ ] Onboarding
 - [ ] Paywall
 - [ ] Rating
+
+## Installation
+Choose Xcode project -> Tarrgets -> Frameworks, Libraries, and Embedded Content -> add AperoSDK.xcframework
+(![Add framework](https://ibb.co/ckkWGRK))
