@@ -12,4 +12,7 @@ AperoApp.configure()
 ## Features
 - [x] Integrate Firebase
 - [x] Integrate Adjust
-- [x] Integrate Facebook 
+- [x] Integrate Facebook
+- [ ] Onboarding
+- [ ] Paywall
+- [ ] Rating
