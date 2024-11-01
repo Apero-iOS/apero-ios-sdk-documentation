@@ -19,4 +19,4 @@ AperoApp.configure()
 
 ## Installation
 Choose Xcode project -> Tarrgets -> Frameworks, Libraries, and Embedded Content -> add AperoSDK.xcframework
-(![Add framework](https://ibb.co/ckkWGRK))
+(![Add framework](https://github.com/Apero-iOS/apero-ios-sdk-documentation/blob/main/Screenshot%202024-11-01%20at%2011.24.35.png))
